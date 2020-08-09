@@ -1,0 +1,46 @@
+body{background-color: #06080D;}
+
+.tit{
+	color: white;
+	font-size: 40px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+.p{
+	color: white;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.pa{
+	color: white;
+	padding-top: 50px;
+	text-align: center;
+}
+
+.lime{
+	
+	width: 200px;
+	height: 200px;
+}
+
+.par{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+
+.back{
+	color: white;
+	
+	text-align: center;
+}
+
+.back1 {
+	text-align: center;
+}
+
+.back2 {
+	text-align: center;
+}
