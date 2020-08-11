@@ -13,7 +13,7 @@ body{background-color: #06080D;}
 .nav a{
 	color: #FFFFFF;
 	text-align: center;
-	float: right;
+	float: left;
 	padding: 14px 16px;
 	text-decoration: none;
 	font-size: 32px;
@@ -34,12 +34,11 @@ body{background-color: #06080D;}
 
 .logo{width: 70px;
 	height: 70px;
-	padding-left: 200px;
+	padding-left: 50px;
 }
 
-.team{
-	margin-right: 650px;
-}
+
+
 
 .ctx{color: white;
 	float: right;
@@ -63,3 +62,4 @@ body{background-color: #06080D;}
 	font-size: 25px;
 
 }
+
