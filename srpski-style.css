@@ -16,7 +16,7 @@ body{background-color: #06080D;}
 	float: left;
 	padding: 14px 16px;
 	text-decoration: none;
-	font-size: 25px;
+	font-size: 32px;
 
 	
 	
@@ -35,16 +35,6 @@ body{background-color: #06080D;}
 .logo{width: 70px;
 	height: 70px;
 	float:right;
-
-}
-
-
-
-
-.ctx{color: white;
-	float: right;
-	padding-right: 20px;
-
 }
 
 .foot{
@@ -63,4 +53,3 @@ body{background-color: #06080D;}
 	font-size: 25px;
 
 }
-
